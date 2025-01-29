@@ -4,7 +4,7 @@
    <div style="gap: 10px; padding: 10px 20px; ">        
        <img src="https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" alt="perfil">
     </div>
-    <div style="display: flex; justify-content: center; gap: 10px;"> 
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;"> 
        <div>
         <a href="https://developerdianaarevalo.netlify.app/">
             <img src="https://github.com/user-attachments/assets/5e55b617-ce05-4a61-a5f8-d993e5ffb1b8" alt="portafolio"> 
