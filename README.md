@@ -1,9 +1,7 @@
 
 <head>   
     <title>Portafolio</title>    
-    <!-- Importar fuentes de Google -->
-    <link href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;700&family=Victor+Mono:ital,wght@1,100;700&display=swap" rel="stylesheet">
-    
+    <!-- Importar fuentes de Google -->   
     <style>
         /* Aplicar la fuente a todo el documento */
         body {
