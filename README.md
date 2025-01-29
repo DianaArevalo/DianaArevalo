@@ -1,8 +1,8 @@
 
 <div>
 <div align= "center"> 
-   <div>        
-       <img src="//https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" alt="perfil">
+   <div style="gap: 10px">        
+       <img src="https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" alt="perfil">
     </div>
     <div style="display: flex; justify-content: center; gap: 10px;">
       <a href="https://developerdianaarevalo.netlify.app" style="
