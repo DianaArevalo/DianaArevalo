@@ -1,7 +1,7 @@
 
 <div class="background-color: #101B23 background-size: cover background-position: center background-repeat: no-repeat">
     <head class="center">
-        https://github.com/user-attachments/assets/2bd8954f-5c0f-4d76-a26d-96aef9154b9e
+        <img src="https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" alt="imagen Presentacion">
         <h1>Mensaje</h1>
         <p>Presentacion</p>
     </head>
