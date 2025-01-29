@@ -1,6 +1,6 @@
 
 <div>
-<div> 
+<div align= "center"> 
     parte 1
 </div>
 <div>
