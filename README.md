@@ -1,8 +1,9 @@
+<div>
 <head>    
-    <title>Portafolio</title>    
+     <title>Portafolio</title>    
     <!-- Importar fuentes de Google -->
-    <link href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;700&family=Victor+Mono:ital,wght@1,100;700&display=swap" rel="stylesheet">
-    <style>
+     <link href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;700&family=Victor+Mono:ital,wght@1,100;700&display=swap" rel="stylesheet">
+     <style>
         /* Aplicar la fuente a todo el documento */
         body {
             font-family: 'Spline Sans Mono', monospace; /* Usa Spline Sans Mono */
@@ -62,5 +63,6 @@
         </div>
     </div>
 
-</body>
-</html>
+</body>    
+</div>
+
