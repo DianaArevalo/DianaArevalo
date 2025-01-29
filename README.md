@@ -1,9 +1,12 @@
-<div>
-<head>    
-     <title>Portafolio</title>    
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio</title>    
     <!-- Importar fuentes de Google -->
-     <link href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;700&family=Victor+Mono:ital,wght@1,100;700&display=swap" rel="stylesheet">
-     <style>
+    <link href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;700&family=Victor+Mono:ital,wght@1,100;700&display=swap" rel="stylesheet">
+    <style>
         /* Aplicar la fuente a todo el documento */
         body {
             font-family: 'Spline Sans Mono', monospace; /* Usa Spline Sans Mono */
@@ -46,8 +49,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" 
-            alt="Imagen Presentación" class="profile-img">        
+        <img src="me.svg" alt="Imagen Presentación" class="profile-img">        
         <h1>Desarrolladora de Software con gran pasión por la tecnología y todo lo que mi mente puede imaginar y crear</h1>
         <p>Presentación</p>        
         <h1>Proyectos</h1>
@@ -63,6 +65,6 @@
         </div>
     </div>
 
-</body>    
-</div>
+</body>
+</html>
 
