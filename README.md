@@ -43,6 +43,85 @@
 </div>
 <div>
    <h1>🦦 Mis Proyectos</h1>
+
+   <table>
+    <tr>
+        <!-- Columna 1: Descripción -->
+        <td align="center">
+            <div>
+                <h1>Guardian Shop</h1>
+                <ul>
+                    <li>Elemento 1</li>
+                    <li>Elemento 2</li>
+                    <li>Elemento 3</li>
+                </ul>
+            </div>
+        </td>
+        <!-- Columna 2: Imagen -->
+        <td align="center">
+            <a href="">
+                <img src="" alt="GuardianShop">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <!-- Columna 1: Descripción -->
+        <td align="center">
+            <div>
+                <h1>Hagwoon School</h1>
+                <ul>
+                    <li>Elemento 1</li>
+                    <li>Elemento 2</li>
+                    <li>Elemento 3</li>
+                </ul>
+            </div>
+        </td>
+        <!-- Columna 2: Imagen -->
+        <td align="center">
+            <a href="">
+                <img src="" alt="Hagwoon School">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <!-- Columna 1: Descripción -->
+        <td align="center">
+            <div>
+                <h1>Microservice - Educativo</h1>
+                <ul>
+                    <li>Elemento 1</li>
+                    <li>Elemento 2</li>
+                    <li>Elemento 3</li>
+                </ul>
+            </div>
+        </td>
+        <!-- Columna 2: Imagen -->
+        <td align="center">
+            <a href="">
+                <img src="" alt="Microservice">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <!-- Columna 1: Descripción -->
+        <td align="center">
+            <div>
+                <h1>Portafolio Arquitectonico</h1>
+                <ul>
+                    <li>Elemento 1</li>
+                    <li>Elemento 2</li>
+                    <li>Elemento 3</li>
+                </ul>
+            </div>
+        </td>
+        <!-- Columna 2: Imagen -->
+        <td align="center">
+            <a href="">
+                <img src="" alt="AlejandroArevalo">
+            </a>
+        </td>
+    </tr>
+</table>
 </div>
 <div>
     parte4
