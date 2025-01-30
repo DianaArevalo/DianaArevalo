@@ -17,7 +17,7 @@
            </a>               
            </td>
            <td align = "center">
-           <a href="https://roadmap.sh/full-stack">
+           <a href="https://roadmap.sh/r?id=679afcbd31e842a9fc732cd1">
             <img src="https://github.com/user-attachments/assets/0a41accc-4013-4b46-929c-3db9867e2afe" alt="roadmap" width="150"> 
            </a>              
            </td>                   
