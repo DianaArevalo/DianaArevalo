@@ -33,15 +33,13 @@
 
 <p><img align= "rigth" src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="GuardianShop" width= "250"></p>
 
-
 ## 🌟 Mis Skills:
 🔰 Resolución de problemas  
 🔰 Diseñadora Web  
 🔰 Desarrolladora Full-stack  
 🔰 Principios SOLID  
 🔰 Diseño UX/UI  
-🔰 Enseñanza  
-
+🔰 Enseñanza
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
