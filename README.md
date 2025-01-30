@@ -133,7 +133,9 @@
 </table>
 </div>
 <div>
-    parte4
+    <p>Tecnologias</p>
+    <p>Historia</p>
+    <p>Contacto</p>
 </div>    
 </div>
 
