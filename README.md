@@ -29,14 +29,25 @@
     <h1>Sobre Mi</h1>>🦦 
 
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
-- :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer: 
-- :high_brightness: <b>Mis Skills:</b> <br>
+- :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:
+
+  <table>
+     <tr>
+        <td>
+        - :high_brightness: <b>Mis Skills:</b> <br>
         :beginner: Resolución de problemas <br>
         :beginner: Diseñadora Web <br>
         :beginner: Desarrolladora Full-stack <br>
         :beginner: Principios SOLID <br>
         :beginner: Diseño UX/UI <br>
-        :beginner: Enseñanza <br>
+        :beginner: Enseñanza <br>           
+        </td>
+        <td>
+           <img src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="Nutria"> 
+        </td>
+     </tr>    
+  </table>
+
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
