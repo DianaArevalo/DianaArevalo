@@ -75,9 +75,9 @@
             </a>
         </td>
         <!-- Columna 1: Descripción -->
-        <td align="center">
+        <td >
             <div>
-                <h2>Hagwoon School</h2>
+                <h2 align="center">Hagwoon School</h2>
                 <ul>
                     <li>Api Rest Full Stack MERN</li>
                     <li>Implementaciones UX/UI con TailwindCss y CSS</li>
@@ -88,9 +88,9 @@
     </tr>
     <tr>
         <!-- Columna 1: Descripción -->
-        <td align="center">
+        <td >
             <div>               
-                  <h2>
+                  <h2 align="center">
                      Microservicio-Educativo
                   </h2>                            
                 <ul>
