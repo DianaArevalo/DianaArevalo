@@ -43,7 +43,7 @@
         :beginner: Enseñanza <br>           
         </td>
         <td>
-           <img src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="Nutria"> 
+           <img src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="Nutria" width= "100"> 
         </td>
      </tr>    
   </table>
