@@ -110,18 +110,19 @@
     <tr>
          <!-- Columna 2: Imagen -->
         <td align="center">
-            <a href="https://github.com/DianaArevalo/Arqui">
-                <img src="https://github.com/user-attachments/assets/464a9755-2a0b-4e1e-9fe3-dbf30293e9ba" alt="AlejandroArevalo">
+            <a href="https://architecturealejandroarevalo.netlify.app/">
+                <img src="https://github.com/user-attachments/assets/da247a10-9824-4ef1-b4bc-3a7eef4b1977" alt="AlejandroArevalo">
             </a>
         </td>
         <!-- Columna 1: Descripción -->
-        <td align="center">
+        <td >
             <div>
-                <h2>Portafolio Arquitectonico</h2>
+                <h2 align="center">Portafolio Arquitectonico</h2>
                 <ul>
                     <li>Repositorio creado con React + Vite</li>
                     <li>Tecnologia implementada JavaScript</li>
                     <li>Los estilos se utilizo animaciones 3D con Three.js, TailwindCss y CSS</li>
+                   <li>[Repositorio]()</li>
                 </ul>
             </div>
         </td>      
