@@ -65,6 +65,12 @@
         </td>
     </tr>
     <tr>
+       <!-- Columna 2: Imagen -->
+        <td align="center">
+            <a href="https://github.com/DianaArevalo/HagwonS">
+                <img src="" alt="Hagwoon School">
+            </a>
+        </td>
         <!-- Columna 1: Descripción -->
         <td align="center">
             <div>
@@ -75,13 +81,7 @@
                     <li>Elemento 3</li>
                 </ul>
             </div>
-        </td>
-        <!-- Columna 2: Imagen -->
-        <td align="center">
-            <a href="https://github.com/DianaArevalo/HagwonS">
-                <img src="" alt="Hagwoon School">
-            </a>
-        </td>
+        </td>        
     </tr>
     <tr>
         <!-- Columna 1: Descripción -->
