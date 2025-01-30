@@ -31,7 +31,7 @@
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:
 
-<p><img align= "right" src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="GuardianShop" width= "250"></p>
+<p><img align= "right" src="https://github.com/user-attachments/assets/f647bb66-c00a-434c-9705-42d9dad67942" alt="GuardianShop" width= "250"></p>
 
 ## 🌟 Mis Skills:
 🔰 Resolución de problemas  
