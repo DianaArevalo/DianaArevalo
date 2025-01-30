@@ -39,7 +39,9 @@
 🔰 Diseño UX/UI  
 🔰 Enseñanza  
 
-<p align= "left">![Nutria](https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10)</p>
+<p align= "left">
+   <img src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="GuardianShop">   
+</p>
 
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
