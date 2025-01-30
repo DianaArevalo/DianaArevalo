@@ -59,7 +59,7 @@
         </td>
         <!-- Columna 2: Imagen -->
         <td align="center">
-            <a href="">
+            <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
                 <img src="" alt="GuardianShop">
             </a>
         </td>
@@ -120,7 +120,7 @@
         </td>
         <!-- Columna 2: Imagen -->
         <td align="center">
-            <a href="">
+            <a href="https://github.com/DianaArevalo/Arqui">
                 <img src="" alt="AlejandroArevalo">
             </a>
         </td>
