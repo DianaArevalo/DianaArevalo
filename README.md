@@ -71,7 +71,7 @@
        <!-- Columna 2: Imagen -->
         <td align="center">
             <a href="https://github.com/DianaArevalo/HagwonS">
-                <img src="" alt="Hagwoon School">
+                <img src="https://github.com/user-attachments/assets/932181fc-646c-4181-b511-bfef4bc174e7" alt="Hagwoon School">
             </a>
         </td>
         <!-- Columna 1: Descripción -->
@@ -79,9 +79,9 @@
             <div>
                 <h2>Hagwoon School</h2>
                 <ul>
-                    <li>Elemento 1</li>
-                    <li>Elemento 2</li>
-                    <li>Elemento 3</li>
+                    <li>Api Rest Full Stack MERN</li>
+                    <li>Implementaciones UX/UI con TailwindCss y CSS</li>
+                    <li>Proyecto educativo de formación</li>
                 </ul>
             </div>
         </td>        
