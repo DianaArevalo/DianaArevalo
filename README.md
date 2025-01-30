@@ -63,7 +63,7 @@
         <!-- Columna 2: Imagen -->
         <td align="center">
             <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
-                <img src="" alt="GuardianShop">
+                <img src="https://github.com/user-attachments/assets/809bbef0-a7e9-44d1-b8ef-b3c56f925145" alt="GuardianShop">
             </a>
         </td>
     </tr>
