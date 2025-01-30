@@ -94,6 +94,7 @@
                      Microservicio-Educativo
                   </h2>                            
                 <ul>
+                   <li>Proyecto Backend</li>
                     <li>Microservicios hechos en Eureka y SpringCloud implementando Students, Courses y Teachers </li>
                     <li>Tecnologias implementadas SpringBoot y Java</li>
                     <li>Configurado a un solo servidor ConfigServer</li>
