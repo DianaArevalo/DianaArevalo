@@ -49,7 +49,7 @@
         <!-- Columna 1: Descripción -->
         <td align="center">
             <div>
-                <h1>Guardian Shop</h1>
+                <h2>Guardian Shop</h2>
                 <ul>
                     <li>Elemento 1</li>
                     <li>Elemento 2</li>
@@ -68,7 +68,7 @@
         <!-- Columna 1: Descripción -->
         <td align="center">
             <div>
-                <h1>Hagwoon School</h1>
+                <h2>Hagwoon School</h2>
                 <ul>
                     <li>Elemento 1</li>
                     <li>Elemento 2</li>
@@ -86,12 +86,10 @@
     <tr>
         <!-- Columna 1: Descripción -->
         <td align="center">
-            <div>
-               <a href="https://github.com/DianaArevalo/Microservice">
-                  <h1>
+            <div>               
+                  <h2>
                      Microservicio-Educativo
-                  </h1>
-               </a>                
+                  </h2>                            
                 <ul>
                     <li>Elemento 1</li>
                     <li>Elemento 2</li>
@@ -110,7 +108,7 @@
         <!-- Columna 1: Descripción -->
         <td align="center">
             <div>
-                <h1>Portafolio Arquitectonico</h1>
+                <h2>Portafolio Arquitectonico</h2>
                 <ul>
                     <li>Elemento 1</li>
                     <li>Elemento 2</li>
