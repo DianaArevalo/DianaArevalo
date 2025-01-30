@@ -50,9 +50,9 @@
    <table>
     <tr>
         <!-- Columna 1: Descripción -->
-        <td align="center">
-            <div>
-                <h2>Guardian Shop</h2>
+        <td >
+            <div >
+                <h2 align="center"> Guardian Shop</h2>
                 <ul>
                     <li>Ecommerce de Java y Spring Boot</li>
                     <li>Implementaciones UX/UI con TailwindCss y CSS</li>
