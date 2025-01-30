@@ -54,9 +54,9 @@
             <div>
                 <h2>Guardian Shop</h2>
                 <ul>
-                    <li>Elemento 1</li>
-                    <li>Elemento 2</li>
-                    <li>Elemento 3</li>
+                    <li>Ecommerce de Java y Spring Boot</li>
+                    <li>Implementaciones UX/UI con TailwindCss y CSS</li>
+                    <li>Base de datos MySql conectada con Axios a React + vite</li>
                 </ul>
             </div>
         </td>
