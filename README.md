@@ -29,11 +29,14 @@
     <h1>Sobre Mi</h1>  :girl: 
 
 - 🔭 Actualmente me encuentro trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
-- :art: <b>Hobby:</b> Actualmente me concentro en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), En algunas ocasiones trato de leer en ingles y aprender Ruso. Aunque no tenga mucho tiempo en realidad :disappointed: Me encanta la tecnologia :iphone: :computer: :computer:  
+- :art: <b>Hobby:</b> Actualmente me concentro en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido en el área educativa. :computer: 
 - :high_brightness: <b>Mis Skills:</b> <br>
-        :beginner: Resolucion de problemas <br>
+        :beginner: Resolución de problemas <br>
         :beginner: Diseñadora Web <br>
         :beginner: Desarrolladora Full-stack <br>
+        :beginner: Principios SOLID <br>
+        :beginner: Diseño UX/UI <br>
+        :beginner: Enseñanza <br>
     
 </div>
 <div>
