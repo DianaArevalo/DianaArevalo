@@ -87,7 +87,11 @@
         <!-- Columna 1: Descripción -->
         <td align="center">
             <div>
-                <h1>[Microservicio-Educativo]("https://github.com/DianaArevalo/Microservice")</h1>
+               <a href="https://github.com/DianaArevalo/Microservice">
+                  <h1>
+                     Microservicio-Educativo
+                  </h1>
+               </a>                
                 <ul>
                     <li>Elemento 1</li>
                     <li>Elemento 2</li>
