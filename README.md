@@ -39,8 +39,8 @@
 🔰 Diseño UX/UI  
 🔰 Enseñanza  
 
-<p align= "left">
-   <img src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="GuardianShop">   
+<p align= "rigth">
+   <img src="https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10" alt="GuardianShop" width= "250">   
 </p>
 
 
