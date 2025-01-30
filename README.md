@@ -31,15 +31,14 @@
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:
 
-| 🌟 **Mis Skills** | 🦦 ![Nutria](https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10) |
+| 🌟 **Mis Skills** | ![Nutria](https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10) |
 |------------------|------------------|
-| 🔰 Resolución de problemas | ![Nutria](https://github.com/user-attachments/assets/3f093c52-a355-4410-83cc-3c2a6d35ea10) |
+| 🔰 Resolución de problemas |  |
 | 🔰 Diseñadora Web |  |
 | 🔰 Desarrolladora Full-stack |  |
 | 🔰 Principios SOLID |  |
 | 🔰 Diseño UX/UI |  |
 | 🔰 Enseñanza |  |
-
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
