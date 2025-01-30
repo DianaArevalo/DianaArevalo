@@ -37,6 +37,8 @@
         :beginner: Principios SOLID <br>
         :beginner: Diseño UX/UI <br>
         :beginner: Enseñanza <br>
+
+<hr style="border: 1px solid #B47532; margin: 20px 0;">
     
 </div>
 <div>
