@@ -87,7 +87,7 @@
         <!-- Columna 1: Descripción -->
         <td align="center">
             <div>
-                <h1>Microservice - Educativo</h1>
+                <h1>[Microservicio-Educativo]("https://github.com/DianaArevalo/Microservice")</h1>
                 <ul>
                     <li>Elemento 1</li>
                     <li>Elemento 2</li>
@@ -98,7 +98,7 @@
         <!-- Columna 2: Imagen -->
         <td align="center">
             <a href="">
-                <img src="" alt="Microservice">
+                <img src="https://github.com/DianaArevalo/Microservice" alt="Microservice">
             </a>
         </td>
     </tr>
