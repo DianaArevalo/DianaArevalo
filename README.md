@@ -94,9 +94,9 @@
                      Microservicio-Educativo
                   </h2>                            
                 <ul>
-                    <li>Elemento 1</li>
-                    <li>Elemento 2</li>
-                    <li>Elemento 3</li>
+                    <li>Microservicios hechos en Eureka y SpringCloud implementando Students, Courses y Teachers </li>
+                    <li>Tecnologias implementadas SpringBoot y Java</li>
+                    <li>Configurado a un solo servidor ConfigServer</li>
                 </ul>
             </div>
         </td>
@@ -111,7 +111,7 @@
          <!-- Columna 2: Imagen -->
         <td align="center">
             <a href="https://github.com/DianaArevalo/Arqui">
-                <img src="" alt="AlejandroArevalo">
+                <img src="https://github.com/user-attachments/assets/464a9755-2a0b-4e1e-9fe3-dbf30293e9ba" alt="AlejandroArevalo">
             </a>
         </td>
         <!-- Columna 1: Descripción -->
@@ -119,9 +119,9 @@
             <div>
                 <h2>Portafolio Arquitectonico</h2>
                 <ul>
-                    <li>Elemento 1</li>
-                    <li>Elemento 2</li>
-                    <li>Elemento 3</li>
+                    <li>Repositorio creado con React + Vite</li>
+                    <li>Tecnologia implementada JavaScript</li>
+                    <li>Los estilos se utilizo animaciones 3D con Three.js, TailwindCss y CSS</li>
                 </ul>
             </div>
         </td>      
