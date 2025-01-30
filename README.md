@@ -78,7 +78,7 @@
         </td>
         <!-- Columna 2: Imagen -->
         <td align="center">
-            <a href="">
+            <a href="https://github.com/DianaArevalo/HagwonS">
                 <img src="" alt="Hagwoon School">
             </a>
         </td>
