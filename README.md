@@ -111,7 +111,7 @@
          <!-- Columna 2: Imagen -->
         <td align="center">
             <a href="https://architecturealejandroarevalo.netlify.app/">
-                <img src="https://github.com/user-attachments/assets/da247a10-9824-4ef1-b4bc-3a7eef4b1977" alt="AlejandroArevalo">
+                <video src="https://github.com/user-attachments/assets/da247a10-9824-4ef1-b4bc-3a7eef4b1977" alt="AlejandroArevalo">
             </a>
         </td>
         <!-- Columna 1: Descripción -->
