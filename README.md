@@ -122,7 +122,9 @@
                     <li>Repositorio creado con React + Vite</li>
                     <li>Tecnologia implementada JavaScript</li>
                     <li>Los estilos se utilizo animaciones 3D con Three.js, TailwindCss y CSS</li>
-                   <li>[Repositorio]()</li>
+                   <li>
+                   <a href="https://github.com/DianaArevalo/Arqui">Repositorio en GitHub</a>                     
+                   </li>
                 </ul>
             </div>
         </td>      
