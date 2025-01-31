@@ -29,7 +29,7 @@
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:   
 </p>  
 
-<p>
+<p align = "right">
 ## 🌟 Mis Skills:
 🔰 Resolución de problemas  
 🔰 Diseñadora Web  
@@ -39,11 +39,13 @@
 🔰 Enseñanza     
 </p>
 
-<p></p>
- 
+<p>
  <img   src="https://github.com/user-attachments/assets/e29950cb-1f32-45a3-89d7-2b22da85bd44" alt="Code" width= "150">
   <img   src="https://github.com/user-attachments/assets/26593ce2-1e23-4f45-a216-16a83a5ef574" alt="Typing" width= "250">
-   <img   src="https://github.com/user-attachments/assets/b7e835b1-9263-49fb-90ca-0d7bb3ceec50" alt="Nube" width= "150">
+   <img   src="https://github.com/user-attachments/assets/b7e835b1-9263-49fb-90ca-0d7bb3ceec50" alt="Nube" width= "150">   
+</p>
+ 
+
   
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
