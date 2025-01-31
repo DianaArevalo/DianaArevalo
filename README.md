@@ -196,7 +196,7 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
    </h2>
     🇨🇴 Español Nativo <br>
    GB English <br>
-   <img src="https://github.com/user-attachments/assets/4a4d3df1-0e4a-4550-b3e4-cd809508a459"alt="ruso" width= "25"> Ruso basico <br>
+   🇷🇺 Ruso Básico <br>
    </div>
 </div>    
 </div>
