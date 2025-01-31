@@ -133,7 +133,9 @@
 </table>
 </div>
 <div>
-    <p>Tecnologias</p>
+    <p>
+        <img src="https://github.com/user-attachments/assets/a06c4ca3-156f-4004-ba0e-e958e534d0b2" alt="">
+    </p>
     <p>Historia</p>
     <p>Contacto</p>
 </div>    
