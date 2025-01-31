@@ -2,7 +2,7 @@
 <div>
 <div align= "center"> 
    <div style="gap: 10px; padding: 10px 20px; ">        
-       <img src="https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" alt="perfil">
+       <img src="https://github.com/user-attachments/assets/d7c90bac-03a7-44af-9308-67f371a17ca4" alt="perfil">
    </div> 
      <table align= "center">
    <tr>
