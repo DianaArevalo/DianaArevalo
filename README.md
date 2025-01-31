@@ -139,7 +139,7 @@
        <img src="https://github.com/user-attachments/assets/51e27ad2-ded7-4994-ac7f-83aaa90cd221"alt="html" width= "50">
        <img src="https://github.com/user-attachments/assets/7f33a537-4264-4d93-b5e1-ffce585b208f" alt="css"  width= "50">
        <img src="https://github.com/user-attachments/assets/1102fd8d-ba8b-4a90-b744-be1e15bdcee8" alt="tailwind" width= "50">
-       <img src="https://github.com/user-attachments/assets/c6433e25-8d78-4527-9884-ce830af521a5"alt="html" width= "50">
+       <img src="https://github.com/user-attachments/assets/6dc3da9c-eec4-49a6-9de1-e4dd9e654894"alt="java" width= "50">
        <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
        <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
        <img src="https://github.com/user-attachments/assets/c6433e25-8d78-4527-9884-ce830af521a5"alt="html" width= "50">
