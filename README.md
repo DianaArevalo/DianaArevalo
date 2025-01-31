@@ -17,7 +17,7 @@
    </tr>
    <tr>   
            <a href="https://roadmap.sh/r/ingeniero-de-inteligencia-artificial-o-cientfico-de-datos-con-enfoque-en-visualizacin">
-            <img src="https://github.com/user-attachments/assets/0a41accc-4013-4b46-929c-3db9867e2afe" alt="roadmap" width="200"> 
+            <img src="https://github.com/user-attachments/assets/4852d7f0-a923-4277-bf39-0be99e0e09b0" alt="roadmap" width="200"> 
    </a>     
    </tr>
       </table>
