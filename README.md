@@ -144,6 +144,10 @@
        <img src="https://github.com/user-attachments/assets/37191562-bdc1-418d-888f-3de19f7dfe32"alt="express" width= "50">
        <img src="https://github.com/user-attachments/assets/6091c091-8402-4a85-bb36-c48c3ff1d4ab"alt="nodejs" width= "50">
     </p>
+   <p>
+   <img src="https://github.com/user-attachments/assets/4685736e-7ce9-45e9-b6c5-2d9ac7e4f0ab" alt="Typescript"  width= "50">
+       <img src="https://github.com/user-attachments/assets/c20af584-bc1d-474d-a91a-6d1e608d9bbc"alt="Astro" width= "50">            
+   </p>
     <p>
        <h2>
            🦦Un poco de mi historia
