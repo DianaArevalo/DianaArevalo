@@ -39,7 +39,7 @@
 🔰 Enseñanza     
 </p>
 
-<p align = "left">
+<p align = "center">
  <img   src="https://github.com/user-attachments/assets/b46e118f-c8b0-4304-a533-71abe83fa52d" alt="Code" width= "150"> 
    <img   src="https://github.com/user-attachments/assets/b7e835b1-9263-49fb-90ca-0d7bb3ceec50" alt="Nube" width= "150">   
     <img   src="https://github.com/user-attachments/assets/01a16019-68c0-4430-9850-a8c9244873a8" alt="qr" width= "150"> 
