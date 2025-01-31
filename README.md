@@ -155,8 +155,11 @@
        <img src="https://github.com/user-attachments/assets/6091c091-8402-4a85-bb36-c48c3ff1d4ab"alt="nodejs" width= "50">
     </p>
    <p align="center">
+      <img src="https://github.com/user-attachments/assets/9646bc56-c90b-45ef-98c4-df67e20ca65d"alt="jsonmove" width= "50"> 
+      <img src="https://github.com/user-attachments/assets/07686188-b65b-410b-a09e-a3fed69ff709"alt="javamove" width= "50">   
    <img src="https://github.com/user-attachments/assets/4685736e-7ce9-45e9-b6c5-2d9ac7e4f0ab" alt="Typescript"  width= "50">
-       <img src="https://github.com/user-attachments/assets/c20af584-bc1d-474d-a91a-6d1e608d9bbc"alt="Astro" width= "50">            
+       <img src="https://github.com/user-attachments/assets/c20af584-bc1d-474d-a91a-6d1e608d9bbc"alt="Astro" width= "50">
+      <img src="https://github.com/user-attachments/assets/90cc58dd-fa77-4868-b1fc-e95bc8e6de3d"alt="Api" width= "50">   
    </p>
     <p>
        <h2>
