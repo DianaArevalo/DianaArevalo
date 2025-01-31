@@ -136,7 +136,16 @@
     <p>
         <img src="https://github.com/user-attachments/assets/a06c4ca3-156f-4004-ba0e-e958e534d0b2" alt="">
     </p>
-    <p>Historia</p>
+    <p>
+       <h2>
+          🌟 Un poco de mi historia
+       </h2>
+Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
+
+La programación me reta constantemente y me brinda la oportunidad de crear soluciones que impactan positivamente en las personas.  
+
+¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
+   </p>
     <p>Contacto</p>
 </div>    
 </div>
