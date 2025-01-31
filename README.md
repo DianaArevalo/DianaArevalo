@@ -141,7 +141,7 @@
        <img src="https://github.com/user-attachments/assets/1102fd8d-ba8b-4a90-b744-be1e15bdcee8" alt="tailwind" width= "50">
        <img src="https://github.com/user-attachments/assets/6dc3da9c-eec4-49a6-9de1-e4dd9e654894"alt="java" width= "50">
        <img src="https://github.com/user-attachments/assets/871fb8aa-c12c-4126-8b1d-4eeaaebf6571" alt="springboot"  width= "50">
-       <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
+       <img src="https://github.com/user-attachments/assets/37191562-bdc1-418d-888f-3de19f7dfe32"alt="express" width= "50">
        <img src="https://github.com/user-attachments/assets/c6433e25-8d78-4527-9884-ce830af521a5"alt="html" width= "50">
     </p>
     <p>
