@@ -52,8 +52,7 @@
        </a>
       <a href="https://github.com/DianaArevalo">
       <img src="https://github.com/user-attachments/assets/2672a66f-3b04-452e-92e8-ed80e8565cfe" alt="fork" width="150">          
-      </a>
-      
+      </a>      
     </td>
   </tr>
 </table>
