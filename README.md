@@ -171,7 +171,22 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
 
 ¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
    </p>
-    <p>Contacto</p>
+    <div align= "center">
+       <a>          
+       <img src="https://github.com/user-attachments/assets/a8263dbd-7b6c-448f-9c08-f2921c73170c"alt="linkedin" width= "50">
+         </a>
+        <a>          
+       <img src="https://github.com/user-attachments/assets/4a5b3f00-7420-4785-b3e8-ec42be6d31f7"alt="WhatsApp" width= "50">
+         </a>
+        <a>          
+       <img src="https://github.com/user-attachments/assets/89bf273a-49ca-42b6-b3ee-2960b2c3b03b"alt="Gmail" width= "50">
+         </a>
+    </div>
+    <div align= "center">
+    🇨🇴 Español Nativo <br>
+     🇺🇸 English <br>
+      <img src="https://github.com/user-attachments/assets/4a4d3df1-0e4a-4550-b3e4-cd809508a459"alt="ruso" width= "25"> Ruso basico <br>
+   </div>
 </div>    
 </div>
 
