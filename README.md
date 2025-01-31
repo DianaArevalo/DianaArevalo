@@ -29,14 +29,15 @@
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:   
 </p>  
      
-   
+<p>
 ## 🌟 Mis Skills:
 🔰 Resolución de problemas  
 🔰 Diseñadora Web  
 🔰 Desarrolladora Full-stack  
 🔰 Principios SOLID  
 🔰 Diseño UX/UI  
-🔰 Enseñanza
+🔰 Enseñanza  
+</p>   
 
 <p align= "right">
          <img  src="https://github.com/user-attachments/assets/e29950cb-1f32-45a3-89d7-2b22da85bd44" alt="Code" width= "250">
