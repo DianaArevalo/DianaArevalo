@@ -58,9 +58,9 @@
    <h1>🦦 Mis Proyectos</h1>
 
    <table>
-    <td>
+    <tr>
         <!-- Columna 1: Descripción -->
-        <tr >
+        <td >
             <div >
                 <h2 align="center"> Guardian Shop</h2>
                 <ul>
@@ -69,23 +69,23 @@
                     <li>Base de datos MySql conectada con Axios a React + vite</li>
                 </ul>
             </div>
-        </tr>
+        </td>
         <!-- Columna 2: Imagen -->
-        <tr align="center">
+        <td align="center">
             <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
                 <img src="https://github.com/user-attachments/assets/809bbef0-a7e9-44d1-b8ef-b3c56f925145" alt="GuardianShop">
             </a>
-        </tr>
-    </td>
-    <tr>
+        </td>
+    </tr>
+    <td>
        <!-- Columna 2: Imagen -->
-        <tr align="center">
+        <td align="center">
             <a href="https://github.com/DianaArevalo/HagwonS">
                 <img src="https://github.com/user-attachments/assets/932181fc-646c-4181-b511-bfef4bc174e7" alt="Hagwoon School">
             </a>
-        </tr>
+        </td>
         <!-- Columna 1: Descripción -->
-        <tr >
+        <td >
             <div>
                 <h2 align="center">Hagwoon School</h2>
                 <ul>
@@ -94,11 +94,11 @@
                     <li>Proyecto educativo de formación</li>
                 </ul>
             </div>
-        </tr>        
-    </td>
+        </td>        
+    </tr>
     <td>
         <!-- Columna 1: Descripción -->
-        <tr >
+        <td >
             <div>               
                   <h2 align="center">
                      Microservicio-Educativo
@@ -110,23 +110,23 @@
                     <li>Configurado a un solo servidor ConfigServer</li>
                 </ul>
             </div>
-        </tr>
+        </td>
         <!-- Columna 2: Imagen -->
-        <tr align="center">
+        <td align="center">
             <a href="https://github.com/DianaArevalo/Microservice">
                 <img src="https://github.com/user-attachments/assets/a38be100-b0dd-4c36-9ff8-36bbc290c724" alt="Microservice">
             </a>
-        </tr>
-    </td>
-    <td>
+        </td>
+    </tr>
+    <tr>
          <!-- Columna 2: Imagen -->
-        <tr align="center">
+        <td align="center">
             <a href="https://architecturealejandroarevalo.netlify.app/">
                 <video src="https://github.com/user-attachments/assets/da247a10-9824-4ef1-b4bc-3a7eef4b1977" alt="AlejandroArevalo">
             </a>
-        </tr>
+        </td>
         <!-- Columna 1: Descripción -->
-        <tr >
+        <td >
             <div>
                 <h2 align="center">Portafolio Arquitectonico</h2>
                 <ul>
@@ -138,8 +138,8 @@
                    </li>
                 </ul>
             </div>
-        </tr>      
-    </td>
+        </td>      
+    </tr>
 </table>
 </div>
 <div>
