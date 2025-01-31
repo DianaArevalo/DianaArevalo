@@ -26,7 +26,7 @@
      
 </div>
 <div>
-    <h1>Sobre Mi</h1>>🦦 
+    <h1>🦦Sobre Mi</h1>> 
 
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:
@@ -138,8 +138,8 @@
     </p>
     <p>
        <h2>
-          🌟 Un poco de mi historia
-       </h2>🦦
+           🦦Un poco de mi historia
+       </h2>🌟
 Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
 
 La programación me reta constantemente y me brinda la oportunidad de crear soluciones que impactan positivamente en las personas.  
