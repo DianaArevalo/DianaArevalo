@@ -77,7 +77,7 @@
             </a>
         </td>
     </tr>
-    <td>
+    <tr>
        <!-- Columna 2: Imagen -->
         <td align="center">
             <a href="https://github.com/DianaArevalo/HagwonS">
@@ -96,7 +96,7 @@
             </div>
         </td>        
     </tr>
-    <td>
+    <tr>
         <!-- Columna 1: Descripción -->
         <td >
             <div>               
