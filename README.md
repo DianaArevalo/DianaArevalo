@@ -137,8 +137,8 @@
         <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
        <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
        <img src="https://github.com/user-attachments/assets/c6433e25-8d78-4527-9884-ce830af521a5"alt="html" width= "50">
-       <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
-       <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
+       <img src="https://github.com/user-attachments/assets/7f33a537-4264-4d93-b5e1-ffce585b208f" alt="css"  width= "50">
+       <img src=""alt="tailwind" width= "50">
        <img src="https://github.com/user-attachments/assets/c6433e25-8d78-4527-9884-ce830af521a5"alt="html" width= "50">
        <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
        <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
