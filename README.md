@@ -134,7 +134,8 @@
 </div>
 <div>
     <p>
-        <img src="https://github.com/user-attachments/assets/a06c4ca3-156f-4004-ba0e-e958e534d0b2" alt="">
+        <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react">
+       <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a" alt="javascript">
     </p>
     <p>
        <h2>
