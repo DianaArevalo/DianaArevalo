@@ -38,12 +38,12 @@
 🔰 Diseño UX/UI  
 🔰 Enseñanza
 
-  
-<hr style="border: 1px solid #6A9294; margin: 20px 0;">
- <p align= "right">
+<p align= "right">
          <img  src="https://github.com/user-attachments/assets/e29950cb-1f32-45a3-89d7-2b22da85bd44" alt="Code" width= "200">
       </p> 
 
+  
+<hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
 </div>
 <div>
