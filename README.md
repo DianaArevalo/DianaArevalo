@@ -29,9 +29,9 @@
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:   
 </p>  
 
-<table>
-  <td>
-    <tr align="right">
+<table align="center">
+  <tr>
+    <td align="right">
       <h2>🌟 Mis Skills:</h2>
       🔰 Resolución de problemas <br>
       🔰 Diseñadora Web <br>
@@ -39,14 +39,14 @@
       🔰 Principios SOLID <br>
       🔰 Diseño UX/UI <br>
       🔰 Enseñanza <br>
-    </tr>
-    <tr align="left">
+    </td>
+    <td align="left">
       <img src="https://github.com/user-attachments/assets/b46e118f-c8b0-4304-a533-71abe83fa52d" alt="Code" width="150"> 
       <img src="https://github.com/user-attachments/assets/b7e835b1-9263-49fb-90ca-0d7bb3ceec50" alt="Nube" width="150">   
       <img src="https://github.com/user-attachments/assets/01a16019-68c0-4430-9850-a8c9244873a8" alt="qr" width="150"> 
       <img src="https://github.com/user-attachments/assets/2672a66f-3b04-452e-92e8-ed80e8565cfe" alt="fork" width="150"> 
-    </tr>
-  </td>
+    </td>
+  </tr>
 </table>
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
