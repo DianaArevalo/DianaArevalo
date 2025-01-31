@@ -3,27 +3,22 @@
 <div align= "center"> 
    <div style="gap: 10px; padding: 10px 20px; ">        
        <img src="https://github.com/user-attachments/assets/9a53052c-6c54-4a25-a578-07f8d5b4d259" alt="perfil">
-    </div>
-     <table>
-        <tr>
-           <td align= "center">
-            <a href="https://developerdianaarevalo.netlify.app/">
+   </div>  
+   <p align= "rigth">
+     <a href="https://developerdianaarevalo.netlify.app/">
             <img src="https://github.com/user-attachments/assets/5e55b617-ce05-4a61-a5f8-d993e5ffb1b8" alt="portafolio" width="150"> 
-            </a>               
-           </td>
-           <td align = "center">
-           <a href="https://drive.google.com/drive/folders/1uSj4oTirC6b0jI7di-du58hK0Mrd1d2u?usp=drive_link">
+            </a>  
+   </p>  
+   <p align= "center">
+       <a href="https://drive.google.com/drive/folders/1uSj4oTirC6b0jI7di-du58hK0Mrd1d2u?usp=drive_link">
             <img src="https://github.com/user-attachments/assets/82841b95-84a7-43da-ac5e-b45b07cae5ad" alt="cv" width="150"> 
-           </a>               
-           </td>
-           <td align = "center">
+           </a>    
+   </p>
+   <p align= "left">   
            <a href="https://roadmap.sh/r/ingeniero-de-inteligencia-artificial-o-cientfico-de-datos-con-enfoque-en-visualizacin">
             <img src="https://github.com/user-attachments/assets/0a41accc-4013-4b46-929c-3db9867e2afe" alt="roadmap" width="150"> 
-           </a>              
-           </td>                   
-        </tr>   
-     </table>      
-     
+           </a>     
+   </p>    
 </div>
 <div>
     <h1>🦦Sobre Mi</h1>> 
