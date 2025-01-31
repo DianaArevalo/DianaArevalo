@@ -30,8 +30,8 @@
 </p>  
 
 <table>
-  <tr>
-    <td align="right">
+  <td>
+    <tr align="right">
       <h2>🌟 Mis Skills:</h2>
       🔰 Resolución de problemas <br>
       🔰 Diseñadora Web <br>
@@ -39,14 +39,14 @@
       🔰 Principios SOLID <br>
       🔰 Diseño UX/UI <br>
       🔰 Enseñanza <br>
-    </td>
-    <td align="left">
+    </tr>
+    <tr align="left">
       <img src="https://github.com/user-attachments/assets/b46e118f-c8b0-4304-a533-71abe83fa52d" alt="Code" width="150"> 
       <img src="https://github.com/user-attachments/assets/b7e835b1-9263-49fb-90ca-0d7bb3ceec50" alt="Nube" width="150">   
       <img src="https://github.com/user-attachments/assets/01a16019-68c0-4430-9850-a8c9244873a8" alt="qr" width="150"> 
       <img src="https://github.com/user-attachments/assets/2672a66f-3b04-452e-92e8-ed80e8565cfe" alt="fork" width="150"> 
-    </td>
-  </tr>
+    </tr>
+  </td>
 </table>
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
