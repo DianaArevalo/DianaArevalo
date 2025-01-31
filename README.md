@@ -38,7 +38,9 @@
 🔰 Diseño UX/UI  
 🔰 Enseñanza  
  
- <img align= "right"  src="https://github.com/user-attachments/assets/e29950cb-1f32-45a3-89d7-2b22da85bd44" alt="Code" width= "250">
+ <img   src="https://github.com/user-attachments/assets/e29950cb-1f32-45a3-89d7-2b22da85bd44" alt="Code" width= "250">
+  <img   src="https://github.com/user-attachments/assets/9a392105-7130-49da-a7c6-a79c7766ca08" alt="Code" width= "250">
+   <img   src="https://github.com/user-attachments/assets/e29950cb-1f32-45a3-89d7-2b22da85bd44" alt="Code" width= "250">
   
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
