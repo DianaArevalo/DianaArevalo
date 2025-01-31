@@ -139,7 +139,7 @@
     <p>
        <h2>
           🌟 Un poco de mi historia
-       </h2>
+       </h2>🦦
 Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
 
 La programación me reta constantemente y me brinda la oportunidad de crear soluciones que impactan positivamente en las personas.  
