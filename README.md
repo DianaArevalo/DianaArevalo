@@ -175,13 +175,13 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
       🦦Contactame:
    </h2>
     <div align= "center">
-       <a>          
+       <a href="https://www.linkedin.com/in/diana-arevalo-168b0925b/">          
        <img src="https://github.com/user-attachments/assets/a8263dbd-7b6c-448f-9c08-f2921c73170c"alt="linkedin" width= "50">
          </a>
-        <a>          
+        <a href="https://wa.me/message/WUDTHOPL65DQC1">          
        <img src="https://github.com/user-attachments/assets/4a5b3f00-7420-4785-b3e8-ec42be6d31f7"alt="WhatsApp" width= "50">
          </a>
-        <a>          
+        <a href="caroldevelop9607@gmail.com">          
        <img src="https://github.com/user-attachments/assets/89bf273a-49ca-42b6-b3ee-2960b2c3b03b"alt="Gmail" width= "50">
          </a>
     </div>
