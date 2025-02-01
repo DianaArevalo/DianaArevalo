@@ -169,6 +169,7 @@
       <img src="https://github.com/user-attachments/assets/07686188-b65b-410b-a09e-a3fed69ff709"alt="javamove" width= "50">
    </p>
    </details>  
+   <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     <details>
        <summary>
           <h2>
@@ -182,6 +183,7 @@ Además de la programación, hay algo más que me apasiona: ¡las nutrias! 🦦�
 
 ¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
    </details>
+   <hr style="border: 1px solid #6A9294; margin: 20px 0;">
    <details>
       <summary>
       <h2>
@@ -208,6 +210,7 @@ Además de la programación, hay algo más que me apasiona: ¡las nutrias! 🦦�
        </a>      
     </p>      
    </details> 
+   <hr style="border: 1px solid #6A9294; margin: 20px 0;">
    <details>
        <summary>
       <h2>
