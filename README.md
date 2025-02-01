@@ -23,7 +23,7 @@
       </table>
 </div>
 <details>
-   <summary><h2>🦦Sobre Mi</h2> </summary>    
+   <summary><h2>🦦About Me</h2> </summary>    
 <p align="center">
    
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
@@ -60,7 +60,7 @@
     
 </details>
 <div>
-   <h2>🦦 Mis Proyectos</h2>
+   <h2>🦦 Top Projects</h2>
 
    <table>
     <tr>
@@ -172,7 +172,7 @@
     <details>
        <summary>
           <h2>
-           🦦Un poco de mi historia
+           🦦My History and Hobbies
        </h2> 
        </summary>
        🌟Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
@@ -184,7 +184,7 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
    <details>
       <summary>
       <h2>
-      🦦Contactame:
+      🦦Contact:
       </h2>
          </summary>
          <div align= "center">
@@ -210,7 +210,7 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
    <details>
        <summary>
       <h2>
-      🦦Idiomas
+      🦦Languages
       </h2>
          </summary>
          <div align= "center">       
