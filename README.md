@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-<hr style="border: 1px solid #6A9294; margin: 20px 0;">
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #6A9294, #B47532, #725441); margin: 20px 0;">
     
 </details>
 <div>
