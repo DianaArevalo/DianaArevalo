@@ -11,12 +11,12 @@
      </a>  
    </tr>  
    <tr>
-       <a href="https://drive.google.com/drive/folders/1uSj4oTirC6b0jI7di-du58hK0Mrd1d2u?usp=drive_link">
+       <a href="https://drive.google.com/drive/folders/1uSj4oTirC6b0jI7di-du58hK0Mrd1d2u?usp=drive_link" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/user-attachments/assets/82841b95-84a7-43da-ac5e-b45b07cae5ad" alt="cv" width="200"> 
        </a>    
    </tr>
    <tr>   
-           <a href="https://roadmap.sh/r/ingeniero-de-inteligencia-artificial-o-cientfico-de-datos-con-enfoque-en-visualizacin">
+           <a href="https://roadmap.sh/r/ingeniero-de-inteligencia-artificial-o-cientfico-de-datos-con-enfoque-en-visualizacin" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/user-attachments/assets/4852d7f0-a923-4277-bf39-0be99e0e09b0" alt="roadmap" width="200"> 
    </a>     
    </tr>
