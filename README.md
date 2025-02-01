@@ -23,7 +23,7 @@
       </table>
 </div>
 <details>
-   <summary><h1>🦦Sobre Mi</h1> </summary>    
+   <summary><h2>🦦Sobre Mi</h2> </summary>    
 <p align="center">
    
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
@@ -60,7 +60,7 @@
     
 </details>
 <div>
-   <h1>🦦 Mis Proyectos</h1>
+   <h2>🦦 Mis Proyectos</h2>
 
    <table>
     <tr>
@@ -148,7 +148,9 @@
 </table>
 </div>
 <div>
-    <p align="center">
+   <details>
+      <summary><h2>🦦Technologies</h2> </summary> 
+      <p align="center">
         <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
        <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
        <img src="https://github.com/user-attachments/assets/51e27ad2-ded7-4994-ac7f-83aaa90cd221"alt="html" width= "50">
@@ -159,27 +161,33 @@
        <img src="https://github.com/user-attachments/assets/37191562-bdc1-418d-888f-3de19f7dfe32"alt="express" width= "50">
        <img src="https://github.com/user-attachments/assets/6091c091-8402-4a85-bb36-c48c3ff1d4ab"alt="nodejs" width= "50">
     </p>
-   <p align="center">
+       <p align="center">
       <img src="https://github.com/user-attachments/assets/9646bc56-c90b-45ef-98c4-df67e20ca65d"alt="jsonmove" width= "50">          
    <img src="https://github.com/user-attachments/assets/4685736e-7ce9-45e9-b6c5-2d9ac7e4f0ab" alt="Typescript"  width= "50">
        <img src="https://github.com/user-attachments/assets/c20af584-bc1d-474d-a91a-6d1e608d9bbc"alt="Astro" width= "50">
       <img src="https://github.com/user-attachments/assets/90cc58dd-fa77-4868-b1fc-e95bc8e6de3d"alt="Api" width= "50">   
       <img src="https://github.com/user-attachments/assets/07686188-b65b-410b-a09e-a3fed69ff709"alt="javamove" width= "50">
    </p>
-    <p>
-       <h2>
+   </details>  
+    <details>
+       <summary>
+          <h2>
            🦦Un poco de mi historia
-       </h2>🌟
-Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
+       </h2> 
+       </summary>
+       🌟Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
 
 La programación me reta constantemente y me brinda la oportunidad de crear soluciones que impactan positivamente en las personas.  
 
 ¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
-   </p>
-   <h2>
+   </details>
+   <details>
+      <summary>
+      <h2>
       🦦Contactame:
-   </h2>
-    <div align= "center">
+      </h2>
+         </summary>
+         <div align= "center">
        <a href="https://www.linkedin.com/in/diana-arevalo-168b0925b/">          
        <img src="https://github.com/user-attachments/assets/a8263dbd-7b6c-448f-9c08-f2921c73170c"alt="linkedin" width= "50">
          </a>
@@ -197,15 +205,21 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
        <a  href= "mailto:caroldevelop9607@gmail.com">
         caroldevelop9607@gmail.com          
        </a>      
-    </p>
-    <div align= "center">
-        <h2>
+    </p>      
+   </details> 
+   <details>
+       <summary>
+      <h2>
       🦦Idiomas
-   </h2>
+      </h2>
+         </summary>
+         <div align= "center">       
     🇨🇴 Español Nativo <br>
    GB English <br>
    🇷🇺 Ruso Básico <br>
    </div>
+   </details>
+ 
 </div>    
 </div>
 
