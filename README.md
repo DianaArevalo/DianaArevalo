@@ -194,7 +194,11 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
        <img src="https://github.com/user-attachments/assets/e2041a1a-6ef9-4cf7-a5a5-4b4029234097"alt="Website" width= "50">
          </a>
     </div>
-    <p href="mailto:caroldevelop9607@gmail.com">caroldevelop9607@gmail.com</p>
+    <p align= "center" >
+       <a  href= "caroldevelop9607@gmail.com">
+        caroldevelop9607@gmail.com          
+       </a>      
+    </p>
     <div align= "center">
         <h2>
       🦦Idiomas
