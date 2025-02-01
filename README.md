@@ -175,9 +175,10 @@
              🦦My History and Hobbies
           </h2> 
        </summary>
-       🌟Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
+       🌟 Conocí este maravilloso mundo de la programación en 2022 y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.
+La programación me reta constantemente y me brinda la oportunidad de crear soluciones que impactan positivamente en las personas.
 
-La programación me reta constantemente y me brinda la oportunidad de crear soluciones que impactan positivamente en las personas.  
+Además de la programación, hay algo más que me apasiona: ¡las nutrias! 🦦✨ Son animales increíbles, juguetones y llenos de energía, y me encanta cómo representan la curiosidad y la adaptabilidad, dos cualidades que también aplico en mi vida y en mi trabajo como desarrolladora.
 
 ¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
    </details>
