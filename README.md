@@ -147,9 +147,8 @@
     </tr>
 </table>
 </div>
-<div>
-   <details>
-      <summary><h2>🦦Technologies</h2> </summary> 
+<div> 
+      <h2>🦦Technologies</h2> 
       <p align="center">
         <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
        <img src="https://github.com/user-attachments/assets/1613a8b3-0127-4507-b965-ce842bca0f0a"alt="javascript" width= "50">
@@ -168,7 +167,7 @@
       <img src="https://github.com/user-attachments/assets/90cc58dd-fa77-4868-b1fc-e95bc8e6de3d"alt="Api" width= "50">   
       <img src="https://github.com/user-attachments/assets/07686188-b65b-410b-a09e-a3fed69ff709"alt="javamove" width= "50">
    </p>
-   </details>  
+   
    <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     <details>
        <summary>
