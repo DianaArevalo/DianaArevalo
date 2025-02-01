@@ -22,7 +22,7 @@
    </tr>
       </table>
 </div>
-<div>
+<details>
     <h1>🦦Sobre Mi</h1> 
 <p align="center">
    
@@ -58,7 +58,7 @@
 
 <hr style="border: 1px solid #6A9294; margin: 20px 0;">
     
-</div>
+</details>
 <div>
    <h1>🦦 Mis Proyectos</h1>
 
