@@ -183,13 +183,10 @@ Además de la programación, hay algo más que me apasiona: ¡las nutrias! 🦦�
 
 ¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
    </details>
-   <hr style="border: 1px solid #6A9294; margin: 20px 0;">
-   <details>
-      <summary>
+   <hr style="border: 1px solid #6A9294; margin: 20px 0;">  
       <h2>
       🦦Contact:
-      </h2>
-         </summary>
+      </h2>        
          <div align= "center">
        <a href="https://www.linkedin.com/in/diana-arevalo-168b0925b/">          
        <img src="https://github.com/user-attachments/assets/a8263dbd-7b6c-448f-9c08-f2921c73170c"alt="linkedin" width= "50">
@@ -208,22 +205,15 @@ Además de la programación, hay algo más que me apasiona: ¡las nutrias! 🦦�
        <a  href= "mailto:caroldevelop9607@gmail.com">
         caroldevelop9607@gmail.com          
        </a>      
-    </p>      
-   </details> 
-   <hr style="border: 1px solid #6A9294; margin: 20px 0;">
-   <details>
-       <summary>
+    </p>        
       <h2>
       🦦Languages
-      </h2>
-         </summary>
+      </h2>         
          <div align= "center">       
     🇨🇴 Español Nativo <br>
    GB English <br>
    🇷🇺 Ruso Básico <br>
-   </div>
-   </details>
- 
+   </div> 
 </div>    
 </div>
 
