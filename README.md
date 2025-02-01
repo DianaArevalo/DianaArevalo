@@ -23,7 +23,7 @@
       </table>
 </div>
 <details>
-    <h1>🦦Sobre Mi</h1> 
+   <summary><h1>🦦Sobre Mi</h1> </summary>    
 <p align="center">
    
 - 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en este proyecto [Microservicio-educativo](https://github.com/DianaArevalo/Microservice). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
