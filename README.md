@@ -187,7 +187,7 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
         <a href="https://wa.me/message/WUDTHOPL65DQC1">          
        <img src="https://github.com/user-attachments/assets/4a5b3f00-7420-4785-b3e8-ec42be6d31f7"alt="WhatsApp" width= "50">
          </a>
-       <a href="mailto:caroldevelop9607@gmail.com>
+       <a href="mailto:caroldevelop9607@gmail.com">
           <img src="https://github.com/user-attachments/assets/b0cd5e5c-bfd8-4f2c-ae3a-e0d5defadc76" alt="gmail" width="50">
        </a>      
        <a href= "https://developerdianaarevalo.netlify.app/">          
@@ -195,7 +195,7 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
          </a>
     </div>
     <p align= "center" >
-       <a  href= "caroldevelop9607@gmail.com">
+       <a  href= "mailto:caroldevelop9607@gmail.com">
         caroldevelop9607@gmail.com          
        </a>      
     </p>
