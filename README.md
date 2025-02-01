@@ -187,18 +187,13 @@ La programación me reta constantemente y me brinda la oportunidad de crear solu
         <a href="https://wa.me/message/WUDTHOPL65DQC1">          
        <img src="https://github.com/user-attachments/assets/4a5b3f00-7420-4785-b3e8-ec42be6d31f7"alt="WhatsApp" width= "50">
          </a>
-        <a href= "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRCVRkrrpvfPgHRVSxjCSSZwQDVlvdbgHnFpRNvJTpncwHxftPDklLbJJpSfSlcsJfzkMT">          
+        <a href= "mailto:caroldevelop9607@gmail.com">          
        <img src="https://github.com/user-attachments/assets/89bf273a-49ca-42b6-b3ee-2960b2c3b03b"alt="Gmail" width= "50">
          </a>
        <a href= "https://developerdianaarevalo.netlify.app/">          
        <img src="https://github.com/user-attachments/assets/e2041a1a-6ef9-4cf7-a5a5-4b4029234097"alt="Website" width= "50">
          </a>
     </div>
-        <p align="center">
-           <a href="mailto:caroldevelop9607@gmail.com">
-           caroldevep9607@gmail.com              
-           </a>
-         </p>           
     <div align= "center">
         <h2>
       🦦Idiomas
