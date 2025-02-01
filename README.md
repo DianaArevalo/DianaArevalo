@@ -184,7 +184,7 @@ Además de la programación, hay algo más que me apasiona: ¡las nutrias! 🦦�
 ¡Estoy emocionada de seguir aprendiendo y creciendo en este fascinante camino! 🚀💻
    </details>
    <hr style="border: 1px solid #6A9294; margin: 20px 0;">  
-      <h2>
+      <h2 align= "center">
       🦦Contact:
       </h2>        
          <div align= "center">
