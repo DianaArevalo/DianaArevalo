@@ -172,8 +172,8 @@
     <details>
        <summary>
           <h2>
-           🦦My History and Hobbies
-       </h2> 
+             🦦My History and Hobbies
+          </h2> 
        </summary>
        🌟Conocí este maravilloso mundo de la programación en **2022** y desde ese momento me enamoré. Lo que más me atrajo es que me permite manifestar mi capacidad intelectual y explorar todo lo que tiene para ofrecer.  
 
