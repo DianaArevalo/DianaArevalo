@@ -6,7 +6,7 @@
    </div> 
      <table align= "center">
    <tr>
-     <a href="https://developerdianaarevalo.netlify.app/">
+     <a href="https://developerdianaarevalo.netlify.app/" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/user-attachments/assets/5e55b617-ce05-4a61-a5f8-d993e5ffb1b8" alt="portafolio" width="200"> 
      </a>  
    </tr>  
