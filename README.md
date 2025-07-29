@@ -26,7 +26,7 @@
    <summary><h2>🦦About Me</h2> </summary>    
 <p align="center">
    
-- 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en [Topaz](https://www.cobistopaz.com/es/home). Tambien estoy en la refactorizacion y actualizacion de mas proyectos.
+- 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en proyectos en colaboracion con un equipo comprometido y dinamico.
 - :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:
   
 </p>  
