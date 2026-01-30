@@ -90,6 +90,7 @@
          <li>Arquitectura hexagonal (puertos y adaptadores)</li>
           <li>Backend desarrollado en Node.js</li>
            <li>Gestión de reservas, usuarios, roles y administración</li>
+           <li>Pruebas unitarias y de integracion + pipeline CI</li>
         </ul>
       </td>
     </tr>
@@ -103,6 +104,7 @@
           <li>Gestión de usuarios, roles y permisos</li>
            <li>Ecosistema spring y java</li>
           <li>Enfoque backend y buenas prácticas</li>
+          <li>Pruebas unitarias + pipeline CI</li>
         </ul>
       </td>
       <td width="50%" align="center">
