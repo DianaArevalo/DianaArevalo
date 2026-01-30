@@ -59,128 +59,62 @@
 
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, #6A9294, #B47532, #725441); margin: 20px 0;">
 
-<div>
-   <h2>🦦 Top Projects</h2>
+<section class="projects">
+  <h2>🦦 Top Projects</h2>
 
-   <table>
-    <tr>
-         <!-- Columna 1: Descripción -->
-        <td >
-            <div >
-                <h2 align="center"> Sistema de Interfaz de Gestión de Equipos Biomédicos</h2>
-               <ul>
-  <li>Sistema empresarial para la gestión de equipos biomédicos</li>
-  <li>Arquitectura basada en microservicios y capas</li>
-  <li>Gestión de usuarios, roles y permisos</li>
-  <li>Enfoque backend y buenas prácticas de software</li>
-</ul>
-            </div>
-        </td>
-        <td align="center">
-            <a href="https://github.com/NutriaDev/SIGEBI/tree/develop">                
-               <img alt="SIGEBI" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" />
-            </a>
-        </td>       
-        <td align="center">
-            <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">                
-               <img alt="SIGEBI" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" />
-            </a>
-        </td>
-         <!-- Columna 1: Descripción -->
-        <td >
-            <div >
-                <h2 align="center"> Guardian Shop</h2>
-                <ul>
-                    <li>Ecommerce de Java y Spring Boot</li>
-                    <li>Implementaciones UX/UI con TailwindCss y CSS</li>
-                    <li>Base de datos MySql conectada con Axios a React + vite</li>
-                </ul>
-            </div>
-        </td>
-        <!-- Columna 1: Descripción -->
-        <td >
-            <div >
-                <h2 align="center"> Guardian Shop</h2>
-                <ul>
-                    <li>Ecommerce de Java y Spring Boot</li>
-                    <li>Implementaciones UX/UI con TailwindCss y CSS</li>
-                    <li>Base de datos MySql conectada con Axios a React + vite</li>
-                </ul>
-            </div>
-        </td>
-        <!-- Columna 2: Imagen -->
-        <td align="center">
-            <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
-                <img src="https://github.com/user-attachments/assets/809bbef0-a7e9-44d1-b8ef-b3c56f925145" alt="GuardianShop">
-            </a>
-        </td>
-    </tr>
-    <tr>
-       <!-- Columna 2: Imagen -->
-        <td align="center">
-            <a href="https://github.com/DianaArevalo/HagwonS">
-                <img src="https://github.com/user-attachments/assets/932181fc-646c-4181-b511-bfef4bc174e7" alt="Hagwoon School">
-            </a>
-        </td>
-        <!-- Columna 1: Descripción -->
-        <td >
-            <div>
-                <h2 align="center">Hagwoon School</h2>
-                <ul>
-                    <li>Api Rest Full Stack MERN</li>
-                    <li>Implementaciones UX/UI con TailwindCss y CSS</li>
-                    <li>Proyecto educativo de formación</li>
-                </ul>
-            </div>
-        </td>        
-    </tr>
-    <tr>
-        <!-- Columna 1: Descripción -->
-        <td >
-            <div>               
-                  <h2 align="center">
-                     Microservicio-Educativo
-                  </h2>                            
-                <ul>
-                   <li>Proyecto Backend</li>
-                    <li>Microservicios hechos en Eureka y SpringCloud implementando Students, Courses y Teachers </li>
-                    <li>Tecnologias implementadas SpringBoot y Java</li>
-                    <li>Configurado a un solo servidor ConfigServer</li>
-                </ul>
-            </div>
-        </td>
-        <!-- Columna 2: Imagen -->
-        <td align="center">
-            <a href="https://github.com/DianaArevalo/Microservice">
-                <img src="https://github.com/user-attachments/assets/a38be100-b0dd-4c36-9ff8-36bbc290c724" alt="Microservice">
-            </a>
-        </td>
-    </tr>
-    <tr>
-         <!-- Columna 2: Imagen -->
-        <td align="center">
-            <a href="https://architecturealejandroarevalo.netlify.app/">
-                <video src="https://github.com/user-attachments/assets/da247a10-9824-4ef1-b4bc-3a7eef4b1977" alt="AlejandroArevalo">
-            </a>
-        </td>
-        <!-- Columna 1: Descripción -->
-        <td >
-            <div>
-                <h2 align="center">Portafolio Arquitectonico</h2>
-                <ul>
-                    <li>Repositorio creado con React + Vite</li>
-                    <li>Tecnologia implementada JavaScript</li>
-                    <li>Los estilos se utilizo animaciones 3D con Three.js, TailwindCss y CSS</li>
-                   <li>
-                   <a href="https://github.com/DianaArevalo/Arqui">Repositorio en GitHub</a>                     
-                   </li>
-                </ul>
-            </div>
-        </td>      
-    </tr>
-</table>
-</div>
-<div> 
+  <div class="projects-grid">
+    <!-- SIGEBI -->
+    <div class="project-card">
+      <h3>Sistema de Gestión de Equipos Biomédicos</h3>
+      <ul>
+        <li>Sistema empresarial para gestión biomédica</li>
+        <li>Arquitectura basada en microservicios</li>
+        <li>Gestión de usuarios, roles y permisos</li>
+        <li>Enfoque backend y buenas prácticas</li>
+      </ul>
+      <a href="https://github.com/NutriaDev/SIGEBI/tree/develop">
+        <img src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" alt="SIGEBI">
+      </a>
+    </div>
+    <!-- Guardian Shop -->
+    <div class="project-card">
+      <h3>Guardian Shop</h3>
+      <ul>
+        <li>Ecommerce con Java y Spring Boot</li>
+        <li>UX/UI con TailwindCSS y CSS</li>
+        <li>MySQL + Axios + React (Vite)</li>
+      </ul>
+      <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
+        <img src="https://github.com/user-attachments/assets/809bbef0-a7e9-44d1-b8ef-b3c56f925145" alt="Guardian Shop">
+      </a>
+    </div>
+    <!-- Hagwoon School -->
+    <div class="project-card">
+      <h3>Hagwoon School</h3>
+      <ul>
+        <li>API REST Full Stack (MERN)</li>
+        <li>UX/UI con TailwindCSS y CSS</li>
+        <li>Proyecto educativo</li>
+      </ul>
+      <a href="https://github.com/DianaArevalo/HagwonS">
+        <img src="https://github.com/user-attachments/assets/932181fc-646c-4181-b511-bfef4bc174e7" alt="Hagwoon School">
+      </a>
+    </div>
+    <!-- Microservicio Educativo -->
+    <div class="project-card">
+      <h3>Microservicio Educativo</h3>
+      <ul>
+        <li>Backend con Spring Boot</li>
+        <li>Eureka y Spring Cloud</li>
+        <li>Students, Courses y Teachers</li>
+        <li>Config Server centralizado</li>
+      </ul>
+      <a href="https://github.com/DianaArevalo/Microservice">
+        <img src="https://github.com/user-attachments/assets/a38be100-b0dd-4c36-9ff8-36bbc290c724" alt="Microservice">
+      </a>
+    </div>
+  </div>
+</section>
       <h2>🦦Technologies</h2> 
       <p align="center">
         <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
