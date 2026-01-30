@@ -63,6 +63,23 @@
   <h2>🦦 Top Projects</h2>
 
   <table width="100%" cellpadding="20">
+     <!-- TURYXHOTEL -->
+      <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/DianaArevalo/TuryxEv_Back/tree/develop">         
+           <img alt="TuryxHotel" src="https://github.com/user-attachments/assets/47f874aa-9467-455c-be16-7b5db193580b" />
+        </a>
+      </td>
+      <td width="50%">
+        <h3 align="center">TuryxHotel</h3>
+        <ul>
+         <li>Plataforma de gestión hotelera orientada a automatización y seguridad</li>
+         <li>Arquitectura hexagonal (puertos y adaptadores)</li>
+          <li>Backend desarrollado en Node.js</li>
+           <li>Gestión de reservas, usuarios, roles y administración</li>
+        </ul>
+      </td>
+    </tr>
     <!-- SIGEBI -->
     <tr>
       <td width="50%">
@@ -71,6 +88,7 @@
           <li>Sistema empresarial para gestión biomédica</li>
           <li>Arquitectura basada en microservicios</li>
           <li>Gestión de usuarios, roles y permisos</li>
+           <li>Ecosistema spring y java</li>
           <li>Enfoque backend y buenas prácticas</li>
         </ul>
       </td>
