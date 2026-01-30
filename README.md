@@ -59,62 +59,79 @@
 
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, #6A9294, #B47532, #725441); margin: 20px 0;">
 
-<section class="projects">
+<div>
   <h2>🦦 Top Projects</h2>
 
-  <div class="projects-grid">
+  <table width="100%" cellpadding="20">
     <!-- SIGEBI -->
-    <div class="project-card">
-      <h3>Sistema de Gestión de Equipos Biomédicos</h3>
-      <ul>
-        <li>Sistema empresarial para gestión biomédica</li>
-        <li>Arquitectura basada en microservicios</li>
-        <li>Gestión de usuarios, roles y permisos</li>
-        <li>Enfoque backend y buenas prácticas</li>
-      </ul>
-      <a href="https://github.com/NutriaDev/SIGEBI/tree/develop">
-        <img src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" alt="SIGEBI">
-      </a>
-    </div>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Sistema de Gestión de Equipos Biomédicos</h3>
+        <ul>
+          <li>Sistema empresarial para gestión biomédica</li>
+          <li>Arquitectura basada en microservicios</li>
+          <li>Gestión de usuarios, roles y permisos</li>
+          <li>Enfoque backend y buenas prácticas</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/NutriaDev/SIGEBI/tree/develop">
+          <img width="90%" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" alt="SIGEBI">
+        </a>
+      </td>
+    </tr>
     <!-- Guardian Shop -->
-    <div class="project-card">
-      <h3>Guardian Shop</h3>
-      <ul>
-        <li>Ecommerce con Java y Spring Boot</li>
-        <li>UX/UI con TailwindCSS y CSS</li>
-        <li>MySQL + Axios + React (Vite)</li>
-      </ul>
-      <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
-        <img src="https://github.com/user-attachments/assets/809bbef0-a7e9-44d1-b8ef-b3c56f925145" alt="Guardian Shop">
-      </a>
-    </div>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">
+          <img width="90%" src="https://github.com/user-attachments/assets/809bbef0-a7e9-44d1-b8ef-b3c56f925145" alt="Guardian Shop">
+        </a>
+      </td>
+      <td width="50%">
+        <h3 align="center">Guardian Shop</h3>
+        <ul>
+          <li>Ecommerce con Java y Spring Boot</li>
+          <li>UX/UI con TailwindCSS y CSS</li>
+          <li>MySQL + Axios + React (Vite)</li>
+        </ul>
+      </td>
+    </tr>
     <!-- Hagwoon School -->
-    <div class="project-card">
-      <h3>Hagwoon School</h3>
-      <ul>
-        <li>API REST Full Stack (MERN)</li>
-        <li>UX/UI con TailwindCSS y CSS</li>
-        <li>Proyecto educativo</li>
-      </ul>
-      <a href="https://github.com/DianaArevalo/HagwonS">
-        <img src="https://github.com/user-attachments/assets/932181fc-646c-4181-b511-bfef4bc174e7" alt="Hagwoon School">
-      </a>
-    </div>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Hagwoon School</h3>
+        <ul>
+          <li>API REST Full Stack (MERN)</li>
+          <li>UX/UI con TailwindCSS y CSS</li>
+          <li>Proyecto educativo</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/DianaArevalo/HagwonS">
+          <img width="90%" src="https://github.com/user-attachments/assets/932181fc-646c-4181-b511-bfef4bc174e7" alt="Hagwoon School">
+        </a>
+      </td>
+    </tr>
     <!-- Microservicio Educativo -->
-    <div class="project-card">
-      <h3>Microservicio Educativo</h3>
-      <ul>
-        <li>Backend con Spring Boot</li>
-        <li>Eureka y Spring Cloud</li>
-        <li>Students, Courses y Teachers</li>
-        <li>Config Server centralizado</li>
-      </ul>
-      <a href="https://github.com/DianaArevalo/Microservice">
-        <img src="https://github.com/user-attachments/assets/a38be100-b0dd-4c36-9ff8-36bbc290c724" alt="Microservice">
-      </a>
-    </div>
-  </div>
-</section>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/DianaArevalo/Microservice">
+          <img width="90%" src="https://github.com/user-attachments/assets/a38be100-b0dd-4c36-9ff8-36bbc290c724" alt="Microservicio">
+        </a>
+      </td>
+      <td width="50%">
+        <h3 align="center">Microservicio Educativo</h3>
+        <ul>
+          <li>Backend con Spring Boot</li>
+          <li>Eureka y Spring Cloud</li>
+          <li>Students, Courses y Teachers</li>
+          <li>Config Server centralizado</li>
+        </ul>
+      </td>
+    </tr>
+
+  </table>
+</div>
       <h2>🦦Technologies</h2> 
       <p align="center">
         <img src="https://github.com/user-attachments/assets/1eac8c20-efcf-45db-85ec-ae4bc656f06e" alt="react"  width= "50">
