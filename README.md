@@ -80,6 +80,11 @@
             <a href="https://github.com/NutriaDev/SIGEBI/tree/develop">                
                <img alt="SIGEBI" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" />
             </a>
+        </td>       
+        <td align="center">
+            <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">                
+               <img alt="SIGEBI" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" />
+            </a>
         </td>
          <!-- Columna 1: Descripción -->
         <td >
@@ -91,12 +96,6 @@
                     <li>Base de datos MySql conectada con Axios a React + vite</li>
                 </ul>
             </div>
-        </td>
-         <!-- Columna 2: Imagen -->
-        <td align="center">
-            <a href="https://github.com/DianaArevalo/TalentoTech-Ecommerce">                
-               <img alt="SIGEBI" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" />
-            </a>
         </td>
         <!-- Columna 1: Descripción -->
         <td >
