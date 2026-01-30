@@ -24,10 +24,22 @@
 </div>
 <details>
    <summary><h2>🦦About Me</h2> </summary>    
-<p align="center">
-   
-- 🔭 Actualmente me encuentro estudiando Analisis y Desarrollo de Software en el [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html) y trabajando en proyectos en colaboracion con un equipo comprometido y dinamico.
-- :art: <b>Hobby:</b> Me gusta concentrarme en mi carrera [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), y, aunque el tiempo es limitado, disfruto aprender idiomas como el inglés y aprendo Русский, idioma el cual estoy empezando.  💻 Me apasiona desarrollar aplicaciones :iphone: que optimicen la vida de las personas y compartir lo que he aprendido, tambien soy apasionada del área educativa y por tanto la mayoria de proyectos son de este tema. :computer:
+<p align="center">   
+<ul>
+  <li>
+    🎓 Actualmente estudio <strong>Análisis y Desarrollo de Software</strong> en el SENA y participo en proyectos colaborativos enfocados en el desarrollo de soluciones escalables y de calidad.
+  </li>
+  <li>
+    💻 Me enfoco principalmente en el <strong>desarrollo backend</strong>, aplicando buenas prácticas de ingeniería de software, principios SOLID y arquitectura limpia, sin dejar de lado el diseño de interfaces funcionales.
+  </li>
+  <li>
+    🌍 Me motiva el aprendizaje continuo. Actualmente fortalezco mi <strong>inglés</strong>.
+  </li>
+  <li>
+    📚 Me apasiona crear aplicaciones que optimicen procesos reales y generen impacto positivo, especialmente en proyectos con enfoque educativo y social, donde compartir conocimiento es parte fundamental.
+  </li>
+</ul>
+
   
 </p>  
 
@@ -36,11 +48,12 @@
     <td align="right">
       <h2>🌟 Mis Skills:</h2>
       🔰 Resolución de problemas <br>
-      🔰 Diseñadora Web <br>
+      🔰 Desarrollo Backend<br>
       🔰 Desarrolladora Full-stack <br>
       🔰 Principios SOLID <br>
       🔰 Diseño UX/UI <br>
-      🔰 Enseñanza <br>
+      🔰 Principios SOLID y buenas prácticas<br>
+      🔰 Trabajo colaborativo y enseñanza<br>
     </td>
     <td align="left">
        <a href="https://developerdianaarevalo.netlify.app/">
