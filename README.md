@@ -51,8 +51,9 @@
       🔰 Desarrollo Backend<br>
       🔰 Desarrolladora Full-stack <br>
       🔰 Principios SOLID <br>
+      🔰 Patrones de diseño <br>
       🔰 Diseño UX/UI <br>
-      🔰 Principios SOLID y buenas prácticas<br>
+      🔰 Arquitectura + clean code<br>
       🔰 Trabajo colaborativo y enseñanza<br>
     </td>
     <td align="left">
