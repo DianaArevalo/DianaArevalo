@@ -95,25 +95,29 @@
         </ul>
       </td>
     </tr>
-    <!-- SIGEBI -->
-    <tr>
-      <td width="50%">
-        <h3 align="center">Sistema de Gestión de Equipos Biomédicos</h3>
-        <ul>
-          <li>Sistema empresarial para gestión biomédica</li>
-          <li>Arquitectura basada en microservicios</li>
-          <li>Gestión de usuarios, roles y permisos</li>
-           <li>Ecosistema spring y java</li>
-          <li>Enfoque backend y buenas prácticas</li>
-          <li>Pruebas unitarias + pipeline CI</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/NutriaDev/SIGEBI/tree/develop">
-          <img width="90%" src="https://github.com/user-attachments/assets/a561552e-ed6f-421c-9da1-7b08532957c8" alt="SIGEBI">
-        </a>
-      </td>
-    </tr>
+   <!-- SIGEBI -->
+<tr>
+  <td width="50%">
+    <h3 align="center">SIGEBI – ERP Biomédico SaaS-Ready</h3>
+    <ul>
+      <li>ERP vertical para gestión y auditoría de equipos biomédicos</li>
+      <li>Arquitectura de microservicios (Spring Boot + Java 17)</li>
+      <li>MS-Auth con JWT stateless + token rotation obligatoria</li>
+      <li>Persistencia de sesiones (soporte multi-dispositivo)</li>
+      <li>Permisos granulares embebidos en JWT</li>
+      <li>80% cobertura en pruebas unitarias</li>
+      <li>Pipeline CI obligatorio para merge</li>
+      <li>Base preparada para evolución a modelo SaaS</li>
+    </ul>
+  </td>
+
+  <td width="50%" align="center">
+    <a href="https://youtu.be/TibgyApcMIs">
+      <img width="90%" src="https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg" alt="Demo Video">
+    </a>
+    <p><i>🎥 Demo técnica: Login → Refresh → Logout con Token Rotation</i></p>
+  </td>
+</tr>
     <!-- Guardian Shop -->
     <tr>
       <td width="50%" align="center">
