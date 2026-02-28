@@ -113,9 +113,8 @@
 
   <td width="50%" align="center">
     <a href="https://youtu.be/TibgyApcMIs">
-      <img width="90%" src="https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg" alt="Demo Video">
-    </a>
-    <p><i>🎥 Demo técnica: Login → Refresh → Logout con Token Rotation</i></p>
+      <img width="90%" src="https://youtu.be/TibgyApcMIs" alt="Demo Video">
+    </a>    
   </td>
 </tr>
     <!-- Guardian Shop -->
