@@ -113,7 +113,8 @@
 
   <td width="50%" align="center">
     <a href="https://youtu.be/TibgyApcMIs">
-      <img width="90%" src="https://youtu.be/TibgyApcMIs" alt="Demo Video">
+      <img width="844" height="573" alt="Captura de pantalla 2026-02-28 120821" src="https://github.com/user-attachments/assets/6ee03bc3-977f-49bb-9f5b-6468c95eb156" />
+" alt="Demo Video">
     </a>    
   </td>
 </tr>
